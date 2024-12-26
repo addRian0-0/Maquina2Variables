@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Dec 16 10:00:29 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : Maquina2Variables
+Top-level Entity Name : Maquina2Variables
+Family : MAX II
+Device : EPM240T100C5
+Timing Models : Final
+Total logic elements : 85 / 240 ( 35 % )
+Total pins : 20 / 80 ( 25 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
